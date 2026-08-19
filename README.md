@@ -1,36 +1,19 @@
 <h1 align="center">Nia's Data Technichian Bootcamp Portfolio</h1>
-<p>In Python module I have learned how to use programming language to sort, organise, clean and to visualise data.</p>
-<h2>Histogram</h2>
-<H1 align="center">Nia's Data Technichian Bootcamp Portfolio</H1>
-<H2>Week Two - Power BI Fundamentals</H2>
+<H2>Week Four - Python</H2>
 <h3>Project Overview</h3>
-<p>During the Power BI module, I first developed my skills by completing a series of guided practical labs, where I learned the fundamentals of importing, transforming and visualising data.
-
-I then applied these skills in an independent project using a book sales dataset. I cleaned and organised the data, created relationships between different tables and designed an interactive dashboard to present sales information in a clear and meaningful way.</p>
+<p> During the Python module, I learned how to use Python as a tool for data analysis. The focus was on understanding the basic workflow of working with data, including importing, inspecting, organising, cleaning and visualising datasets.</p>
 <h3>Objective</h3>
-<p>To develop practical skills in Power BI by preparing, modelling and visualising data, while creating interactive dashboards that communicate insights effectively and support data-driven decision-making.</p>
-<h3>Book Sales Dashboard</h3>
-<p>Using a book sales dataset, I cleaned and organised the data, created relationships between multiple tables and built an interactive dashboard to explore sales performance. The dashboard combines charts and filters to make it easier to analyse the data and identify patterns.</p>
-<h4>Some examples of the functions that I used?</h4>
-<td><img src="./Screenshot (718).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (719).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (720).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (721).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (722).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (723).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (724).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (725).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (726).png"/></td>
-<h1></h1>
+<p>The objective of this module was to develop a practical understanding of how Python can be used to prepare and explore data. I worked through examples and exercises to learn how to organise data and create different types of visualisations using Python.</p>
+<h2>Data Visualization</h2>
+<p> As part of the module, I explored different visualisation techniques to understand how data can be presented and compared. The visualisations below demonstrate some of the charts I learned to create using Python. </p>
+<h3>Histogram</h3>
+<img src="./Screenshot (718).png"/>
+<h3>Scatter plot</h3>
+<img src="./Screenshot (718).png"/>
+<h3>Bar Chart</h3>
+<img src="./Screenshot (718).png"/>
+<h3>Correlation Heathmap</h3>
+<img src="./Screenshot (718).png"/>
 <h3>What I learned</h3>
-<p>Through this project, I learned how Power BI transforms raw data into interactive dashboards that make information easier to explore and understand. I developed practical experience in data preparation, modelling relationships between tables and selecting appropriate visualisations to communicate insights clearly.
-
-I also gained an appreciation for the importance of well-structured data. Creating relationships between tables showed me how different datasets can be connected to produce more meaningful analysis, while designing dashboards helped me understand how effective visualisations can support business decision-making.</p>
+<p>This module helped me understand the general workflow of using Python for data analysis. I learned how to inspect and organise data, identify and handle data that needs cleaning, and prepare data for visualisation.</p>
+<p> The main focus of this module was learning how to use Python and understanding the data-analysis process rather than producing a detailed analysis of a particular dataset. </p>
