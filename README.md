@@ -7,13 +7,13 @@
 <h2>Data Visualization</h2>
 <p> As part of the module, I explored different visualisation techniques to understand how data can be presented and compared. The visualisations below demonstrate some of the charts I learned to create using Python. </p>
 <h3>Histogram</h3>
-<img src="./Screenshot (718).png"/>
+<img src="./Screenshot (793).png"/>
 <h3>Scatter plot</h3>
-<img src="./Screenshot (718).png"/>
+<img src="./Screenshot (794).png"/>
 <h3>Bar Chart</h3>
-<img src="./Screenshot (718).png"/>
+<img src="./Screenshot (795).png"/>
 <h3>Correlation Heathmap</h3>
-<img src="./Screenshot (718).png"/>
+<img src="./Screenshot (796).png"/>
 <h3>What I learned</h3>
 <p>This module helped me understand the general workflow of using Python for data analysis. I learned how to inspect and organise data, identify and handle data that needs cleaning, and prepare data for visualisation.</p>
 <p> The main focus of this module was learning how to use Python and understanding the data-analysis process rather than producing a detailed analysis of a particular dataset. </p>
